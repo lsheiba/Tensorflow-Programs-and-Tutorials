@@ -1,7 +1,0 @@
-tensorboard/*
-MNIST_data/*
-.ipynb_checkpoints/*.ipynb
-Data/xMatrix.npy
-Data/yMatrix.npy
-Data/wordsList.npy
-Data/wordVectors.npy
